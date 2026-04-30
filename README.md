@@ -1,7 +1,6 @@
 # Spotify Playlist Unliker
 
-CLI tool to batch unlike tracks from your Liked Songs when they appear in selected playlists.
-
+Simple CLI tool to remove songs from your Liked Songs if they're already in one of your playlists.
 > Because my shuffle shouldn’t jump from pop anthems to bedtime tracks.
 
 ## Quick start
