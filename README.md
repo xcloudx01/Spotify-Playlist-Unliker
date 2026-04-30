@@ -43,3 +43,4 @@ Select playlists:
 ## Requirements (Running from source)
 
 - Python 3.10+
+- Tested on Windows only — Linux/macOS may work but is untested.
