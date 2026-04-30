@@ -6,7 +6,7 @@ Simple CLI tool to remove songs from your Liked Songs if they're already in one 
 ## Quick start
 
 1. Create an app at <https://developer.spotify.com/dashboard>
-2. Run [`SpotifyPlaylistUnliker.exe`](SpotifyPlaylistUnliker.exe).
+2. Run [`SpotifyPlaylistUnliker.exe`](SpotifyPlaylistUnliker.exe) (on the [Releases](https://github.com/xcloudx01/Spotify-Playlist-Unliker/releases) page).
 3. Input app ID and Secret from step 1.
 4. Select playlist numbers (e.g., `4`, `1,3,5`, or `2-6`).
 
