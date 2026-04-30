@@ -1,6 +1,6 @@
 # Spotify Playlist Unliker
 
-CLI tool to unlike tracks from your Liked Songs when they appear in selected playlists.
+CLI tool to batch unlike tracks from your Liked Songs when they appear in selected playlists.
 
 > Because my shuffle shouldn’t jump from pop anthems to bedtime tracks.
 
